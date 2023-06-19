@@ -1,0 +1,13 @@
+{
+  "name": "simple-fetch",
+  "version": "1.0.0",
+  "author": "Alien",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "tsc && node dist/main.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
